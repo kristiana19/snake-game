@@ -2,7 +2,8 @@
 
 A classic Snake Game built with HTML, CSS, and JavaScript.
 
-🎮 How to Play
+### 🎮 How to Play
+
 Click START GAME to begin
 
 Use your keyboard arrow keys to control the snake:
